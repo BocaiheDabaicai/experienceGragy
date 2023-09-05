@@ -1,0 +1,24 @@
+{
+  "name": "experiencegragy",
+  "version": "1.0.0",
+  "description": "做实验",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BocaiheDabaicai/experienceGragy.git"
+  },
+  "author": "Lex sium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BocaiheDabaicai/experienceGragy/issues"
+  },
+  "homepage": "https://github.com/BocaiheDabaicai/experienceGragy#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
