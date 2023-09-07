@@ -21,9 +21,5 @@
     "lodash": "^4.17.21",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4"
-  },
-  "devDependencies": {
-    "css-loader": "^6.8.1",
-    "style-loader": "^3.3.3"
   }
 }
