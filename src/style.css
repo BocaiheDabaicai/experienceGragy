@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./Rainbow-Party-2.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.container{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+}
+.hello{
+    color: #0e5454;
+    font-family: 'MyFont','sans-serif';
+    font-size:36px;
+    background: url("./icon.png") right no-repeat;
+}
