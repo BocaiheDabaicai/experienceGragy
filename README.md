@@ -22,7 +22,4 @@ element.appendChild(myIcon);
 
 
 // css
-
 ```
-
-
