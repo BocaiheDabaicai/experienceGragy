@@ -5,7 +5,6 @@ module.exports = {
     mode: 'development',
     entry: {
         index: './src/index.js',
-        print: './src/print.js',
     },
     devtool: 'inline-source-map',
     devServer: {
@@ -23,8 +22,5 @@ module.exports = {
         path: path.resolve(__dirname, 'dist'),
         clean:true,  // 输出前清理dist文件夹
         publicPath: '/',
-    },
-    optimization: {
-        runtimeChunk: 'single',
-    },
+    }
 };
